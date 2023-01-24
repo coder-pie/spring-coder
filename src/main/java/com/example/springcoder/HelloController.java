@@ -13,7 +13,7 @@ public class HelloController {
 
     @GetMapping("/check")
 	public String check() {
-		return "spring is running is coder env!";
+		return "spring is running is coder env!!! This is from Lily!";		
 	}
 
 }
